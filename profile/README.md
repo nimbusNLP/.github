@@ -15,7 +15,7 @@ Nimbus is a lightweight, developer-friendly framework designed to help small tea
 
 ## Nimbus Team
 
-[JD Fortune](https://github.com/JDFortune) • Austin, TX
-[Richard LoRicco](https://github.com/RichardLoRicco) • New Haven, CT
-[Chelsea O'Connor](https://github.com/Chelsoconn) • Austin, TX
-[Satya Patel](https://github.com/satyapatel293) • Jersey City, NJ
+- [JD Fortune](https://github.com/JDFortune) • Austin, TX
+- [Richard LoRicco](https://github.com/RichardLoRicco) • New Haven, CT
+- [Chelsea O'Connor](https://github.com/Chelsoconn) • Austin, TX
+- [Satya Patel](https://github.com/satyapatel293) • Jersey City, NJ
