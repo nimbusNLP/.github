@@ -1,19 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/nimbusNLP/nimbusNLP.github.io/blob/main/static/img/nimbusMain.png" width="500" height="auto" />
+</p>
 
-This is Nimbus! 
+## Nimbus: An open-source framework that simplifies deployment of lightweight NLP models.
 
-Docs go here ..
+Nimbus is a lightweight, developer-friendly framework designed to help small teams deploy task-focused NLP models to the cloud with minimal friction. It combines the convenience of managed platforms with the affordability of DIY approaches.
 
+## Getting Started
 
+- Nimbus Case Study - For a thorough explanation of Nimbus, view [our case study here](https://nimbusnlp.github.io/docs/introduction)
+- Walkthrough - To see Nimbus in action, please see our [walkthrough](https://nimbusnlp.github.io/walkthrough)
+- Using Nimbus - To learn more about how Nimbus is used, view our [docs](https://github.com/nimbusNLP/nimbus/blob/main/README.md)
+- Nimbus Source Code - The [repo containing Nimbus' source code is available here](https://github.com/nimbusNLP/nimbus)
 
+## Nimbus Team
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[JD Fortune](https://github.com/JDFortune) • Austin, TX
+[Richard LoRicco](https://github.com/RichardLoRicco) • New Haven, CT
+[Chelsea O'Connor](https://github.com/Chelsoconn) • Austin, TX
+[Satya Patel](https://github.com/satyapatel293) • Jersey City, NJ
