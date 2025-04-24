@@ -10,7 +10,7 @@ Deploying even simple NLP models often involves complex infrastructure setup, de
 
 ## Getting Started
 
-- Nimbus Case Study - For a thorough explanation of Nimbus, view [our case study here](https://nimbusnlp.github.io/docs/introduction)
+- Nimbus Case Study - For a thorough explanation of Nimbus, view [our case study here](https://nimbusnlp.github.io/)
 - Walkthrough - To see Nimbus in action, please see our [walkthrough](https://nimbusnlp.github.io/walkthrough)
 - Using Nimbus - To learn more about how Nimbus is used, view our [docs](https://github.com/nimbusNLP/nimbus/blob/main/README.md)
 - Nimbus Source Code - The [repo containing Nimbus' source code is available here](https://github.com/nimbusNLP/nimbus)
