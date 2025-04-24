@@ -4,7 +4,9 @@
 
 ## Nimbus: An open-source framework that simplifies deployment of lightweight NLP models.
 
-Nimbus is a lightweight, developer-friendly framework designed to help small teams deploy task-focused NLP models to the cloud with minimal friction. It combines the convenience of managed platforms with the affordability of DIY approaches.
+**Nimbus is an open-source framework designed to simplify the deployment of lightweight, task-specific Natural Language Processing (NLP) models to the cloud.**
+
+Deploying even simple NLP models often involves complex infrastructure setup, dependency management, and operational overhead, creating a barrier for individuals and small teams. Nimbus automates these challenging parts using a developer-friendly CLI and AWS serverless technology (Lambda, API Gateway, CDK), making it easier and more cost-effective to turn your trained models into production-ready API endpoints.
 
 ## Getting Started
 
